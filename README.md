@@ -26,7 +26,7 @@ My seed [^1] that I use for settings per [Nilaus guide](https://www.youtube.com/
 # Guide Progress
 
 - [x] Create Rep/ init guide
-- [ ] Start run
+- [x] Start run
 - [ ] Enable Achievement Tracking (optional, more of a reminder to disable crafting once all items are crafted)
 - [ ] Gather resources
 - [ ] Craft *ALL* Items Needed
