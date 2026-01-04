@@ -27,7 +27,7 @@ My seed [^1] that I use for settings per [Nilaus guide](https://www.youtube.com/
 
 - [x] Create Rep/ init guide
 - [x] Start run
-- [ ] Enable Achievement Tracking (optional, more of a reminder to disable crafting once all items are crafted)
+- [x] Enable Achievement Tracking (optional, more of a reminder to disable crafting once all items are crafted)
 - [ ] Gather resources
 - [ ] Craft *ALL* Items Needed
 - [ ] Disable Crafting (/permissions disable craft)
