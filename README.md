@@ -29,9 +29,9 @@ My seed [^1] that I use for settings per [Nilaus guide](https://www.youtube.com/
 - [x] Start run
 - [x] Enable Achievement Tracking (optional, more of a reminder to disable crafting once all items are crafted)
 - [x] Gather resources
-- [ ] Craft *ALL* Items Needed
-- [ ] Disable Crafting (/permissions disable craft)
-- [ ] Disable Achievement Tracking for Lazy Bastard (optional
+- [x] Craft *ALL* Items Needed
+- [x] Disable Crafting (/permissions disable craft)
+- [x] Disable Achievement Tracking for Lazy Bastard (optional
 - [ ] Starter Base
 - [ ] Mini-Mall
 - [ ] Main Bus
