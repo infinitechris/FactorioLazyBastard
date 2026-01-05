@@ -32,10 +32,10 @@ My seed [^1] that I use for settings per [Nilaus guide](https://www.youtube.com/
 - [x] Craft *ALL* Items Needed
 - [x] Disable Crafting (/permissions disable craft)
 - [x] Disable Achievement Tracking for Lazy Bastard (optional
-- [ ] Starter Base
-- [ ] Mini-Mall
-- [ ] Main Bus
-- [ ] Regular Run
+- [x] Starter Base
+- [x] Mini-Mall
+- [x] Main Bus
+- [x] Regular Run
 - [ ] ...
 - [ ] Launch Spaceship!
 
